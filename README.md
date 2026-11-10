@@ -242,29 +242,17 @@ Contains archived order data with the same structure as the **Orders** table.
 
 # 🎯 How to Use This Repository
 
-### Step 1️⃣
+### Step 1️⃣ Download or clone this repository.
 
-Download or clone this repository.
+### Step 2️⃣ Set up the dataset in your preferred SQL database.
 
-### Step 2️⃣
+### Step 3️⃣ Start solving the questions from **Q1**.
 
-Set up the dataset in your preferred SQL database.
+### Step 4️⃣ Try to solve each question without looking at external solutions.
 
-### Step 3️⃣
+### Step 5️⃣ Compare your solution with the provided solutions (if available).
 
-Start solving the questions from **Q1**.
-
-### Step 4️⃣
-
-Try to solve each question without looking at external solutions.
-
-### Step 5️⃣
-
-Compare your solution with the provided solutions (if available).
-
-### Step 6️⃣
-
-Move from Basic → Intermediate → Advanced.
+### Step 6️⃣ Move from Basic → Intermediate → Advanced.
 
 ---
 
